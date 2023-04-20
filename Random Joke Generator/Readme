@@ -1,0 +1,16 @@
+# Joke API Project
+
+This project uses the [JokeAPI](https://jokeapi.dev/) to fetch random jokes, and displays them on a webpage. It demonstrates the use of the `async/await` function in JavaScript.
+
+## Usage
+
+To use this project, you will need to obtain an API key from the [JokeAPI website](https://jokeapi.dev/). Once you have an API key, you can replace the placeholder text in the `index.js` file with your own key.
+
+
+## Reference 
+## https://jokeapi.dev/ follow this documentation
+## https://www.geeksforgeeks.org/async-await-function-in-javascript/ any modification should i do
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
